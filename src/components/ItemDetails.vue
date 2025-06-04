@@ -115,8 +115,7 @@ export default {
     flex-direction: column;
   }
   
-  .detail-image-container,
-  .detail-image-placeholder {
+  .detail-image-container {
     flex: 1 1 auto;
     width: 100%;
     max-height: 400px;
