@@ -9,9 +9,6 @@
           class="detail-image"
         >
       </div>
-      <div v-else class="detail-image-placeholder">
-        {{ movie.title.charAt(0).toUpperCase() }}
-      </div>
 
       <div class="detail-info">
         <h1>{{ movie.title }}</h1>
