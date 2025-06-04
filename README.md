@@ -1,24 +1,25 @@
-# vue-movie-catalog
+### movieHUB запсук
+# 1)проверка установки node
+    node -v
+    npm -v
+# 2) Установите Vue CLI (если нет)
+    npm install -g @vue/cli (если нету)
+# 3) Клонируйте проект
+    git clone https://github.com/Flu337/movieHUB.git
+    cd movieHUB
+# 4) Установите зависимости
+    npm install
+# 5) Запустите сервер разработки
+    npm run serve
+ ## После успешного запуска откроется браузер по адресу:
+http://localhost:8080
+# Добро пожаловать!!!
+![главное меню](photo_2025-06-01_16-17-42.jpg)
 
-## Project setup
-```
-npm install
-```
+# Каталог
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![каталог](photo_2025-06-01_16-17-49.jpg)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Страница фильма
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![фильм](photo_2025-06-01_16-17-53.jpg)
